@@ -1,1 +1,8 @@
-/* You can add global styles to this file, and also import other style files */
+:root{
+    --variableParrafo: 2rem;
+    --color1: #d2553a;
+}
+html,body{
+    color: var(--color1);
+    font-size: var(--variableParrafo);
+}
