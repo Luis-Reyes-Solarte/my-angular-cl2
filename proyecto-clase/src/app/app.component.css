@@ -1,0 +1,12 @@
+.mitexto{
+    font-size: 2rem;
+    color: blue;
+    font-family: Nerko One;
+}
+.encabezado{
+    color: white;
+    background-color: black;
+}
+td{
+    background-color: yellow;
+}
