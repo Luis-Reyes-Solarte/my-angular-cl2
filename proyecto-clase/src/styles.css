@@ -2,7 +2,7 @@
     --variableParrafo: 2rem;
     --color1: #d2553a;
 }
-html,body{
+p{
     color: var(--color1);
     font-size: var(--variableParrafo);
 }
